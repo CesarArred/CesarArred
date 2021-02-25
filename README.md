@@ -4,7 +4,7 @@
 
 ## Bienvenidos a mi perfil :wave:
 
-### Acerca de mi 
+### :bust_in_silhouette: Acerca de mi 
 
 * :pencil2: Me gusta dibujar 
 * :video_game: Me gustan los videojuegos
@@ -12,6 +12,27 @@
 * :school: Estudiante de la carrera de Ing. en TIC
 * :hash: Tengo 22 años
 * :briefcase: Por el momento no trabajo
+
+### :floppy_disk: Lenguajes
+
+* SQL
+* PHP
+* JavaScript
+* C#
+* Java
+* Lenguaje de etiquetas HTML
+* CSS
+
+### :computer: Herramientas utilizadas 
+
+* Visual Studio
+* Visual Studio Code
+* WAMP
+* Android Studio
+* Unity
+* SQL Server
+* Cisco Packed Tracer
+* Arduino
 ---
 
 ### Horario :clock4:
