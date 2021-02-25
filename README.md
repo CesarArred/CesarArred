@@ -4,7 +4,7 @@
 
 ## Bienvenidos a mi perfil :wave:
 
-### Acercca de mi 
+### Acerca de mi 
 
 * :pencil2: Me gusta dibujar 
 * :video_game: Me gustan los videojuegos
@@ -13,4 +13,14 @@
 
 ---
 
-###
+### Horario :clock4:
+
+| Hora |     Lunes    |   Martes  |  Miercoles  |   Jueves  |   Viernes  |
+|:----:|:------------------------------------------:|:-:|:-:|:-:|:---:|
+| 2:00 |     ADMINISTRACION Y SEGURIDAD DE REDES    | :heavy_check_mark:  |  :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark:  |
+| 3:00 | INGENIERIA DEL CONOCIMIENTO                |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :x: |
+| 4:00 | PATRONES DE DISEÑO                         |  :heavy_check_mark: | :heavy_check_mark:  |  :heavy_check_mark: |  :heavy_check_mark: |
+| 5:00 | DISEÑO DE INTERFASES DE USUARIO(UI/UX)     |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:  |
+| 6:00 | NEGOCIOS ELECTRONICOS II                   |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :x: |
+| 7:00 | ANALISIS AVANZADO DE  SOFTWARE             |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |  :heavy_check_mark: |
+| 8:00 | AUDITORIA EN TECNOLOGIAS DE LA INFORMACION |  :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:  | :x:|
