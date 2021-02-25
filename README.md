@@ -11,6 +11,7 @@
 * :computer: Me gusta saber de los equipos de computo
 * :school: Estudiante de la carrera de Ing. en TIC
 * :hash: Tengo 22 años
+* :briefcase: Por el momento no trabajo
 ---
 
 ### Horario :clock4:
