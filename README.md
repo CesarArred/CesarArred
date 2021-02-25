@@ -10,7 +10,7 @@
 * :video_game: Me gustan los videojuegos
 * :computer: Me gusta saber de los equipos de computo
 * :school: Estudiante de la carrera de Ing. en TIC
-
+* :hash: Tengo 22 años
 ---
 
 ### Horario :clock4:
